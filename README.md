@@ -1,3 +1,15 @@
+## User Management System
+-A user management system project developed using React.
+-The project was developed with the aim of improving my skills and gaining more experience with technologies such as React, JWT and Zustand.
+-I provided state management with Zustand.
+-A Fake API was created using JSON-Server.
+-JWT (JSON Web Token) is used for user login and registration.
+-When the login process is successful, a token is obtained and the user's session information is stored.
+-Using this token, GET and POST operations can be performed to the API.
+![usermanagement1](https://github.com/ilkeratar/user-management-system/assets/74013091/b46872a7-ef4d-4b93-a398-fcf1588b1d42)
+![usermanagement2](https://github.com/ilkeratar/user-management-system/assets/74013091/38c4e1da-9349-4f05-b576-bef35abb2a79)
+![usermanagement3](https://github.com/ilkeratar/user-management-system/assets/74013091/3539e484-2533-495d-b86c-fe44480b222f)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
